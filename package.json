@@ -1,16 +1,16 @@
 {
 	"name": "@blavad/node-package",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": false,
 	"type": "module",
 	"files": [
 		"dist"
 	],
 	"main": "./dist/node-package.umd.cjs",
-	"types": "dist/index.d.ts",
 	"module": "./dist/node-package.js",
 	"exports": {
 		".": {
+			"types": "./dist/index.d.ts",
 			"import": "./dist/node-package.js",
 			"require": "./dist/node-package.umd.cjs"
 		}
