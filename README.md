@@ -12,7 +12,6 @@ This template is configured to use:
 |       Basic linting       |     ESLint      |
 |      Code formatting      |    Prettier     |
 | Linting only staged files |   lint-staged   |
-|  Lint git commit subject  |   commitlint    |
 
 ## How to use ?
 
