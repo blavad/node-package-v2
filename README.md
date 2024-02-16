@@ -11,7 +11,6 @@ This template is configured to use:
 |   Programming language    |   Typescript    |
 |       Basic linting       |     ESLint      |
 |      Code formatting      |    Prettier     |
-| Pre-commit hook validator |      Husky      |
 | Linting only staged files |   lint-staged   |
 |  Lint git commit subject  |   commitlint    |
 
